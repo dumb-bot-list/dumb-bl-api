@@ -26,5 +26,6 @@
   },
   "homepage": "https://github.com/dhvitOP/dbl-api#readme",
   "dependencies": {
+    "node-fetch": "^2.6.1"
   }
 }
